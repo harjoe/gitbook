@@ -7,5 +7,5 @@
 
 * 第七部分 Linux
 	
-	* Linux 常用命令(Chapter1/command.md)
+	* [Linux 常用命令](chapter_linux/常用命令.md)
 
