@@ -1,6 +1,6 @@
 # system
 
-切换用户
+su 切换用户
 
 ```shell
 su <username>				
@@ -24,7 +24,11 @@ rm; delete a dir
 rm -r <dir name>	
 ```
 
-​	
+ls link
+
+```shell
+ln -s /usr/local/nodejs/bin/npm /usr/local/bin
+```
 
 
 
