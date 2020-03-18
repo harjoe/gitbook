@@ -4,7 +4,7 @@ redis-server --daemonize yes		run in thread.
 
 
 
-windowsÏÂ £ºredis-cli.exe -h 127.0.0.1 -p 6379
+windowsä¸‹ ï¼šredis-cli.exe -h 127.0.0.1 -p 6379
 
 
 

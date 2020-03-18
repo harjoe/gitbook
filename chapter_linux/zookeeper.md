@@ -23,8 +23,7 @@ server.3=192.168.1.203:2888:3888
 echo '1' > data/myid
 
 
-¹Ø±Õ·À»ğÇ½·½·¨£º sudo service iptables stop
-
+å…³é—­é˜²ç«å¢™æ–¹æ³•ï¼š sudo service iptables stop
 
 sick:
 1.after restart system after stoping firewall. 
