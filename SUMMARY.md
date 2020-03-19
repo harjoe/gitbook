@@ -3,8 +3,7 @@
 
 * 第一部分
 * 第六部分 设计模式(翻译)
-
-  ​	[Bridge](/design_pattern/bridge.md)
+	- [Bridge](/design_pattern/bridge.md)
 
 * 第七部分 Linux
 	- [Linux 常用命令](/linux/command.md)
