@@ -4,16 +4,13 @@
 
 To start ZooKeeper you need a configuration file. Here is a sample, create it in conf/zoo.cfg:
 
-tickTime=2000
+>tickTime=2000
 dataDir=/var/zookeeper
 clientPort=2181
 
-
-
 bin/zkServer.sh start
-
-
->zoo.cfg
+>
+zoo.cfg
 server.1=192.168.1.201:2888:3888
 server.2=192.168.1.202:2888:3888
 server.3=192.168.1.203:2888:3888
