@@ -19,4 +19,5 @@
 
   * New English
 
-    *  [08 The best and the worst](english\new_english_2\08.The_best_and_the_worst.md)
+    *  [8 The best and the worst](english\new_english_2\08.The_best_and_the_worst.md)
+  *  谢孟媛
