@@ -4,4 +4,4 @@
 
 
 
-[axute index](/axure_html/index.html)
+[axute index](axure_html/start.html)
